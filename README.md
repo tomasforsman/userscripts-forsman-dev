@@ -49,7 +49,13 @@ Scripts that improve productivity across various websites.
 ### General Scripts
 General-purpose scripts for common web interactions.
 
-- *Coming soon*
+- **[Universal Settings Manager](scripts/general/settings-manager.user.js)** - Centralized settings interface for managing userscript configurations
+  - Provides a unified UI for configuring multiple userscripts
+  - Supports 6 control types: boolean, string, text, number, enum, and array-string
+  - Real-time validation with visual feedback
+  - Persistent storage via GM storage
+  - Keyboard shortcut: `Alt+Shift+S`
+- **[Settings Manager Test](scripts/general/settings-manager-test.user.js)** - Example test script demonstrating how to use the Universal Settings Manager
 
 ## 📖 Usage
 
